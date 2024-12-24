@@ -1,2 +1,6 @@
 Test file for lalalala
+<<<<<<< HEAD
 1
+=======
+2
+>>>>>>> a93d639b2848dc524550ffcfd5e3f285533154ab
